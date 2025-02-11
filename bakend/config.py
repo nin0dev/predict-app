@@ -1,0 +1,1 @@
+MONGO_URI = "mongodb+srv://mohamedhaddad:pI4gZqSCWuXVWjeH@cluster0.pyhbz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
