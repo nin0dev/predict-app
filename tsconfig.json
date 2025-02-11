@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/MapMarker.js", "screens/MapScreen.js", "screens/HomeScreen.js", "components/NotificationBadge.js", "components/AdCard.js", "screens/AdDetailsScreen.js", "screens/AddAdScreen.js", "utils/formatters.js", "utils/validators.js", "utils/geolocation.js"  ]
 }
